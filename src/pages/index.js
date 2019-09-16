@@ -1,15 +1,19 @@
-import styles from './index.css';
+import styles from "./index.css";
+import Link from "umi/link";
 
 export default function() {
   return (
     <div className={styles.normal}>
-      <div className={styles.welcome} />
-      <ul className={styles.list}>
-        <li>To get started, edit <code>src/pages/index.js</code> and save to reload.</li>
+      <h1>Page index</h1>
+      <ul>
         <li>
-          <a href="https://umijs.org/guide/getting-started.html">
-            Getting Started
-          </a>
+          <Link to={`/users`}>用户</Link>
+        </li>
+        <li>
+          <Link to={`/goods`}>商品</Link>
+        </li>
+        <li>
+          <Link to={`/about`}>关于</Link>
         </li>
       </ul>
     </div>
