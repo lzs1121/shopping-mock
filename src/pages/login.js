@@ -28,12 +28,12 @@ export default class extends Component {
           <UserName
             name="username"
             placeholder="web"
-            rules={[{ required: true, message: "请输入用户名" }]}
+            rules={[{ required: true, message: "Please input the username" }]}
           />
           <Password
             name="password"
             placeholder="123"
-            rules={[{ required: true, message: "请输入密码" }]}
+            rules={[{ required: true, message: "Please input the password" }]}
           />
           <Submit>Login</Submit>
         </Login>

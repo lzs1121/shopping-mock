@@ -6,7 +6,7 @@ export default function() {
   const users = [{ id: 1, name: "tom" }, { id: 2, name: "jerry" }];
   return (
     <div className={styles.normal}>
-      <h1>用户列表</h1>
+      <h1>User List</h1>
       <ul>
         {users.map(u => (
           // <li key={u.id}>

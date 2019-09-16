@@ -4,7 +4,7 @@ const course = {
     'Javascript':[
       {
         id:1,
-        name:'ES6语法实战',
+        name:'ES6',
         img:'LearnES6_Final.png',
         price:'100',
         solded:'561',
@@ -12,7 +12,7 @@ const course = {
       {
         id:2,
 
-        name:'Typescript实战',
+        name:'Typescript',
         img:'Typescript_Plumbing_image.png',
         price:'100',
         solded:'156',
@@ -20,7 +20,7 @@ const course = {
       {
         id:3,
 
-        name:'Javascript算法实战',
+        name:'Javascript',
         img:'JSBasic-Algorithms_Final.png',
         price:'100',
         solded:'526',
@@ -32,7 +32,7 @@ const course = {
       {
         id:4,
 
-        name:'React入门',
+        name:'React',
         img:'ReactBeginners.png',
         price:'100',
         solded:'536',
@@ -40,7 +40,7 @@ const course = {
       {
         id:5,
 
-        name:'ReactNative开发自己的APP',
+        name:'ReactNative',
         img:'ReactNative.png',
         price:'100',
         solded:'456',
@@ -48,7 +48,7 @@ const course = {
       {
         id:6,
 
-        name:'React服务端渲染实战',
+        name:'React SSR',
         img:'ReactNextServer_Final.png',
         price:'100',
         solded:'556',
@@ -56,7 +56,7 @@ const course = {
       {
         id:7,
 
-        name:'Redux Sage中间件实战',
+        name:'Redux Sage Middleware',
         img:'ReduxSaga.png',
         price:'100',
         solded:'2256',
@@ -64,7 +64,7 @@ const course = {
       {
         id:8,
 
-        name:'试用react开发PWA应用',
+        name:'react',
         img:'PWAReact_Final.png',
         price:'100',
         solded:'1156',
@@ -72,7 +72,7 @@ const course = {
       {
         id:9,
 
-        name:'React Hooks实战',
+        name:'React Hooks',
         img:'SimplifyHooks_Final.png',
         price:'100',
         solded:'5361',
@@ -80,7 +80,7 @@ const course = {
       {
         id:10,
 
-        name:'React Mobx状态管理实战',
+        name:'React Mobx',
         img:'React_Mobx_TS.png',
         price:'100',
         solded:'956',
@@ -90,7 +90,7 @@ const course = {
       {
         id:11,
 
-        name:'Vue进阶实战',
+        name:'Vue',
         img:'VueJS_Final.png',
         price:'180',
         solded:'586',
@@ -99,7 +99,7 @@ const course = {
       {
         id:12,
 
-        name:'Vuejs开发pwa应用',
+        name:'Vuejs with pwa',
         img:'VuePwa.png',
         price:'100',
         solded:'596',
@@ -107,7 +107,7 @@ const course = {
       {
         id:13,
 
-        name:'试用TS开发Vuejs应用',
+        name:'TS for Vuejs',
         img:'TSVue_Final.png',
         price:'100',
         solded:'526',
@@ -118,7 +118,7 @@ const course = {
       {
         id:14,
 
-        name:'Github从入门到精通',
+        name:'Github',
         img:'github.png',
         price:'99',
         solded:'10',
@@ -126,7 +126,7 @@ const course = {
       {
         id:15,
 
-        name:'Git版本控制实战',
+        name:'Git',
         img:'LearnGit.png',
         price:'49',
         solded:'180',
@@ -137,7 +137,7 @@ const course = {
       {
         id:16,
 
-        name:'Puppetee测试入门',
+        name:'Puppetee',
         img:'TestGooglePuppeteer_Final.png',
         price:'10',
         solded:'56',
@@ -145,7 +145,7 @@ const course = {
       {
         id:17,
 
-        name:'使用jest测试你的React项目',
+        name:'jest tests React',
         img:'TestReactJest.png',
         price:'30',
         solded:'10',
@@ -155,7 +155,7 @@ const course = {
       {
         id:18,
 
-        name:'Python从入门到精通',
+        name:'Python',
         img:'IntroPython.png',
         price:'100',
         solded:'56',
@@ -166,7 +166,7 @@ const course = {
       {
         id:19,
 
-        name:'使用Docker部署你的nodejs',
+        name:'Docker for nodejs',
         img:'NodeDocker_1000.png',
         price:'100',
         solded:'56',
@@ -174,7 +174,7 @@ const course = {
       {
         id:20,
 
-        name:'在AWS环境部署nodejs',
+        name:'AWS allocates nodejs',
         img:'NodeAWSServerless_Final.png',
         price:'100',
         solded:'56',
@@ -185,7 +185,7 @@ const course = {
       {
         id:21,
 
-        name:'GraphQL从入门到精通',
+        name:'GraphQL',
         img:'GraphQL_Final.png',
         price:'100',
         solded:'56',

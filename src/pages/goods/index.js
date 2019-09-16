@@ -90,7 +90,7 @@ class Goods extends Component {
                     <Card.Meta
                       description={
                         <div>
-                          <span>￥{item.price}</span>
+                          <span>${item.price}</span>
 
                           <span style={{ float: "right" }}>
                             <Icon type="user" /> {item.solded}
